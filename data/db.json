@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Animi Dolor Pariatur",
+      "price": "$30.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/animi-dolor-pariatur/300x300.jpg",
+      "availble": "yes",
+      "sale": "15%"
+    },
+    {
+      "id": 2,
+      "productName": "Art Deco Home",
+      "price": "$25.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/art-deco-home/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 3,
+      "productName": "Artificial potted plant",
+      "price": "$40.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/artificial-potted-plant/300x300.jpg",
+      "availble": "no",
+      "sale": "10%"
+    },
+    {
+      "id": 4,
+      "productName": "Dark Green Jug",
+      "price": "$19.00 - $17.10",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/dark-green-jug/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 5,
+      "productName": "Drinking Glasses",
+      "price": "$30.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/drinking-glasses/300x300.jpg",
+      "availble": "yes",
+      "sale": "15%"
+    },
+    {
+      "id": 6,
+      "productName": "Helen Chair",
+      "price": "$25.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/helen-chair/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 7,
+      "productName": "High Quality Glass Bottle",
+      "price": "$92.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/high-quality-glass-bottle/300x300.jpg",
+      "availble": "no",
+      "sale": "10%"
+    },
+    {
+      "id": 8,
+      "productName": "Living Room & Bedroom Lights",
+      "price": "$45.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/living-room-bedroom-lights/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 9,
+      "productName": "Nancy Chair",
+      "price": "$30.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/nancy-chair/300x300.jpg",
+      "availble": "yes",
+      "sale": "15%"
+    },
+    {
+      "id": 10,
+      "productName": "Simple Chair",
+      "price": "$25.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/simple-chair/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 11,
+      "productName": "Smooth Disk",
+      "price": "$40.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/smooth-disk/300x300.jpg",
+      "availble": "no",
+      "sale": "10%"
+    },
+    {
+      "id": 12,
+      "productName": "Table Black",
+      "price": "$19.00 - $17.10",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/table-black/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 13,
+      "productName": "Table Wood Pine",
+      "price": "$30.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/table-wood-pine/300x300.jpg",
+      "availble": "yes",
+      "sale": "15%"
+    },
+    {
+      "id": 14,
+      "productName": "Vase Of Flowers",
+      "price": "$25.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/vase-of-flowers/300x300.jpg",
+      "availble": "yes"
+    },
+    {
+      "id": 15,
+      "productName": "Teapot with black tea",
+      "price": "$92.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/teapot-with-black-tea/300x300.jpg",
+      "availble": "no",
+      "sale": "10%"
+    },
+    {
+      "id": 16,
+      "productName": "Unique Decoration",
+      "price": "$45.00",
+      "image": "https://helendo.jamstacktemplates.dev/images/products/unique-decoration/300x300.jpg",
+      "availble": "yes"
+    }
+  ]
+}
+
