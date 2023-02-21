@@ -7,7 +7,7 @@ export const RootLayout = () => {
     return (
         <div className='layout'>
             <Header />    
-            <main className=''>
+            <main className='pt-20'>
                 <Outlet />
             </main>
             <Footer />

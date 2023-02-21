@@ -4,7 +4,7 @@ import { PopularProduct } from './PopularProduct'
 export const Home = () => {
   return (
     <div>
-      <div className='bg-gray-100 px-20 flex items-center justify-between min-h-screen'>
+      <div className='bg-gray-100 p-20 flex items-center justify-between min-h-screen'>
         <div className='w-1/2'>
           <p className='text-amber-500'>CHAIR <br />COLLECTION <br />2023</p>
           <h2 className='font-semibold text-6xl mt-5 mb-3'>Welcome To Online Store</h2>

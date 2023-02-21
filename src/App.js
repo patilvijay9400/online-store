@@ -6,6 +6,7 @@ import { Home } from "./components/Home";
 import { Pages } from "./components/Pages";
 import { ProductModal } from "./components/ProductModal";
 import { Products } from "./components/Products";
+import { CartProvider } from "./context/CartContext";
 import { RootLayout } from "./layout/RootLayout";
 
 const router = createBrowserRouter(
@@ -23,8 +24,9 @@ const router = createBrowserRouter(
 
 function App() {
   return (
-    
-    <RouterProvider router={router} />
+    <CartProvider>
+      <RouterProvider router={router} />
+    </CartProvider>
   );
 }
 
